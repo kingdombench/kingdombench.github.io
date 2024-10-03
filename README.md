@@ -12,6 +12,6 @@ The Kingdom of Bench is a peaceful and independent nation located in Europe. Est
 
 - **Currency:** 1 Gen = £0.02
 - **Government:** Monarchy
-- **History:** We have NEVER had a war.
+- **History:** 
 
 Feel free to explore our website for more information!
