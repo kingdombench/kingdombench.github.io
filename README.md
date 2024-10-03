@@ -1,9 +1,4 @@
 
----
-layout: default
-title: About the Kingdom of Bench
----
-
 ![Flag](/docs/assets/Bench.png)
 
 ## About Us
